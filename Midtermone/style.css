@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(255, 170, 74);
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 40%;
+   border: 5px solid black;
+   border-radius: 50px;
+}
+.home{
+    text-align: center;
+    font-size: 50px;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+.navbar ul{
+      list-style-type: none;
+      background-color: rgb(93, 92, 92);
+      padding: 0;
+      margin: 0;
+      text-align: center;
+}
+.navbar a{
+       color: white;
+       text-decoration: none;
+       padding: 15px;
+       display: block;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a:hover{
+    background-color: rgb(39, 38, 38);
+}
+table, th, td{
+    width: 1300px;
+    height: 50px;
+    margin: auto;
+    border-collapse: collapse;
+    border: 3px solid black;
+    text-align: center;
+    background: grey
+}
+.mail{
+     text-align: center;
+}
+#main{
+    text-align: center;
+}
+#fb{
+    text-align: center;
+  }
+h2{
+    font-size: 300%;
+    text-align: center;
+}
+th{
+    background: brown;
+}
+table, td:hover{
+    background: rgb(64, 63, 63);
+}
+.fa.fa-facebook{
+    font-size: larger;
+}
+.spanning{
+    position: absolute;
+      width: 50%;
+      left: 25%;
+      border-radius: 50px;
+      
+} 
+.kyr{
+    position: absolute;
+    width: 95%;
+    left: 30%;
+}
+.divone{
+    position: absolute;
+    width: 85%;
+    left: 33%;
+}
+#irving{
+    text-align: center;
+    font-size: 150%;
+}
+.oneonone{
+    position: absolute;
+     right: 80%;
+     width: 10%;
+     height: 70%;
+     
+ }
+.tabs{
+    text-decoration: none;
+    color: black;
+}
+.nameage{
+  text-align: center;
+  font-size: 130%;
+}
